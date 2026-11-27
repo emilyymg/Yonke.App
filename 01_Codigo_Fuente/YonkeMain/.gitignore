@@ -1,0 +1,14 @@
+node_modules/
+.DS_Store       
+# Dependencias
+node_modules/
+
+# Archivos generados por Next.js
+.next/
+out/
+
+# Archivos locales
+.DS_Store
+.env*
+!.env.example
+.next/
